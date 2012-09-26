@@ -14,7 +14,7 @@
     "url": "http://github.com/jamescauwelier/ntwitter.git"
   }, 
   "dependencies": { 
-    "oauth": "git://github.com/jamescauwelier/node-oauth.git", 
+    "nOauth" : "git://github.com/jamescauwelier/node-oauth.git", 
     "cookies": "0.1.x",
     "keygrip": "0.2.x"
   }, 
